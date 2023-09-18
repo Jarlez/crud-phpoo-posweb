@@ -1,4 +1,3 @@
-<p>Este projeto é um aplicativo de CRUD simples desenvolvido em PHP orientado a objetos, HTML e SQL para o cadastro de usuários. Ele oferece operações básicas de criação, leitura, atualização e exclusão de registros de usuários em um banco de dados SQL. O sistema utiliza uma abordagem orientada a objetos para melhorar a organização e a manutenção do código, proporcionando uma experiência de desenvolvimento mais eficiente e escalável.</p>
-<p></p>Projeto de pós graduação em desenvolvimento WEB FullStack.</p>
+<p>Este projeto representa um Sistema de Gerenciamento de Estoque desenvolvido de forma simples, utilizando PHP, JavaScript, HTML e CSS. Ele proporciona as funcionalidades fundamentais de um CRUD (Create, Read, Update, Delete) para o cadastro de produtos. Com ele, você pode facilmente adicionar, visualizar, atualizar e remover produtos do seu inventário.</p>
 
 Instruído e avaliado pelo Professor e Doutor [Thyago Maia.](https://www.linkedin.com/in/thyagomaia/)
